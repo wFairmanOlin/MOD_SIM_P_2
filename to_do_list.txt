@@ -1,0 +1,14 @@
+To_Do_List
+-Find Parameters
+--specific heat of person
+--"r constant"
+--find heat produced by person
+-Researching Specific Paramters (poor information)
+-Create Functions
+--Change in Temperature over Time
+--Parameter Sweep of surrounding people
+--Plot Function
+
+-Finish Code by Noon on Saturday or else
+
+-make video
