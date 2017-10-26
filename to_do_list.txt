@@ -8,7 +8,7 @@ To_Do_List
 --Change in Temperature over Time
 --Parameter Sweep of surrounding people
 --Plot Function
-
+-compare a single person versus a group
 -Finish Code by Noon on Saturday or else
 
 -make video
