@@ -1,14 +1,14 @@
 To_Do_List
 -Find Parameters
---specific heat of person
---"r constant"
---find heat produced by person
--Researching Specific Paramters (poor information)
+--specific heat of person (done)
+--"r constant" (done)
+--find heat produced by person 
+-Researching Specific Paramters (poor information) (done)
 -Create Functions
---Change in Temperature over Time
---Parameter Sweep of surrounding people
+--Change in Temperature over Time (done)
+--Parameter Sweep of surrounding people 
 --Plot Function
--compare a single person versus a group
+-compare a single person versus a group 
 -Finish Code by Noon on Saturday or else
 
 -make video
